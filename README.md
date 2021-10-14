@@ -53,3 +53,17 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tinker-twins" alt="streak-stats" height="125" /></p>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<h3 align="left">Featured Repositories:</h3>
+
+<p align="left">
+  <a href="https://github.com/Tinker-Twins/AutoDRIVE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tinker-Twins&repo=AutoDRIVE" /></a>
+  <a href="https://github.com/Tinker-Twins/AutoRACE-Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tinker-Twins&repo=AutoRACE-Simulator" /></a>
+  <a href="https://github.com/Tinker-Twins/Behavioral-Cloning-Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tinker-Twins&repo=Behavioral-Cloning-Simulator" /></a>
+  <a href="https://github.com/Tinker-Twins/Robust_Behavioral_Cloning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tinker-Twins&repo=Robust_Behavioral_Cloning" /></a>
+  <a href="https://github.com/Tinker-Twins/MARL-Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tinker-Twins&repo=MARL-Simulator" /></a>
+  <a href="https://github.com/Tinker-Twins/AprilTag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tinker-Twins&repo=AprilTag" /></a>
+  <a href="https://github.com/Tinker-Twins/Self_Driving_Car_Trajectory_Tracking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tinker-Twins&repo=Self_Driving_Car_Trajectory_Tracking" /></a>
+  <a href="https://github.com/Tinker-Twins/Self_Driving_Car_Planning_and_Control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tinker-Twins&repo=Self_Driving_Car_Planning_and_Control" /></a>
+</p>
