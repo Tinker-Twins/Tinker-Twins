@@ -24,7 +24,6 @@
   <a href="https://www.linkedin.com/in/samakchinmay"><img src="https://img.shields.io/badge/LinkedIn-Chinmay%20Samak-blue?style=social&logo=linkedin" /></a>
   <a href="https://scholar.google.com/citations?user=Y0iPBAoAAAAJ&hl"><img src="https://img.shields.io/badge/Google%20Scholar-Tanmay%20Samak-blue?style=social&logo=googlescholar" /></a>
   <a href="https://scholar.google.com/citations?user=4-TG0r4AAAAJ&hl"><img src="https://img.shields.io/badge/Google%20Scholar-Chinmay%20Samak-blue?style=social&logo=googlescholar" /></a>
-  <a href="mailto:tinkertwins22@gmail.com"><img src="https://img.shields.io/badge/Gmail-Tinker%20Twins-red?style=social&logo=gmail" /></a>
   <a href="mailto:samaktanmay@gmail.com"><img src="https://img.shields.io/badge/Gmail-Tanmay%20Samak-red?style=social&logo=gmail" /></a>
   <a href="mailto:samakchinmayvilas@gmail.com"><img src="https://img.shields.io/badge/Gmail-Chinmay%20Samak-red?style=social&logo=gmail" /></a>
 </p>
