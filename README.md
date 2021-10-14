@@ -1,6 +1,4 @@
-<h1 align="left">Hi there, we're Tinker Twins!</h1>
-
-<h3 align="left">We are passionate about robotics and autonomous systems</h3>
+<img src="https://github.com/Tinker-Twins/Tinker-Twins/blob/main/Tinker-Twins.png" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tinker-twins&label=Views&color=brightgreen&style=plastic" alt="tinker-twins" />
