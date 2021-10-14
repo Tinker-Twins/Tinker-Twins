@@ -49,9 +49,9 @@
 
 <h3 align="left">Profile Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinker-twins&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" height="300" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinker-twins&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" height="200" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tinker-twins&show_icons=true&locale=en" alt="profile-stats" height="150" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tinker-twins&show_icons=true&locale=en" alt="profile-stats" height="100" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tinker-twins" alt="streak-stats" height="150" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tinker-twins" alt="streak-stats" height="100" /></p>
 
