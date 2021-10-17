@@ -12,7 +12,7 @@
 
 :thinking: **Our real names:** Tanmay Samak & Chinmay Samak
 
-:wink: **Fun fact:** We both are identical twins in real life!
+:wink: **Fun fact:** We both are identical twins in real life
 
 <h3 align="left">Let's Connect:</h3>
 
