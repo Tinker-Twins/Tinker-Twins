@@ -30,12 +30,13 @@
   <a href="https://www.researchgate.net/profile/Chinmay-Samak"><img src="https://img.shields.io/badge/ResearchGate-Chinmay%20Samak-green?style=social&logo=researchgate" /></a>
 </p>
 
-<h3 align="left">Languages and Frameworks:</h3>
+<h3 align="left">Software Development Skills:</h3>
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="embeddedc" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" width="40" height="40"/>
@@ -44,6 +45,9 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MIT_App_Inventor_logo.png" alt="mitai" width="40" height="40"/>
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="htmlcssjs" height="40"/>
+  <img src="https://www.logolynx.com/images/logolynx/73/73dcca5b2435a4fc91983ab4170cd695.png" alt="sql" width="40" height="40"/>
 </p>
 
 <h3 align="left">Profile Stats:</h3>
