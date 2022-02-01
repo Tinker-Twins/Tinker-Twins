@@ -53,8 +53,8 @@
 <h3 align="left">Hardware Prototyping Skills:</h3>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SketchUp_logo.svg" alt="sketchup" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SketchUp_logo.svg" alt="sketchup" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Autodesk_Logo.svg" alt="autodesk" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ansys" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Comsol_logo.svg" alt="comsol" height="20"/>
