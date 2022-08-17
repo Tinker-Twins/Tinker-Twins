@@ -39,7 +39,7 @@
   <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="embeddedc" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="labview" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" alt="ros" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="40"/>
