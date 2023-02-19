@@ -54,7 +54,6 @@
   <a href="https://www.researchgate.net/profile/Chinmay-Samak"><img src="https://img.shields.io/badge/ResearchGate-Chinmay%20Samak-green?style=social&logo=researchgate" /></a>
 </p>
 
-<br />
 <h1 align="left">Software Development Skills:</h1>
 
 <p align="left"> 
@@ -75,7 +74,6 @@
   <img src="https://www.logolynx.com/images/logolynx/73/73dcca5b2435a4fc91983ab4170cd695.png" alt="sql" height="40"/>
 </p>
 
-<br />
 <h1 align="left">Hardware Prototyping Skills:</h1>
 
 <p align="left">
@@ -99,7 +97,6 @@
   <img src="https://pbs.twimg.com/profile_images/1379502878419779592/odCJ2GCH_400x400.jpg" alt="ti" height="40"/>
 </p>
 
-<br />
 <h1 align="left">Profile Stats:</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinker-twins&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" height="250" /></p>
