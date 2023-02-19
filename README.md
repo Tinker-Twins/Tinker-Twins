@@ -19,7 +19,7 @@
 <br />
 <img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px" height="175px" src="Tinker_Twins_Profile.png">
 
-**Tinker Twins:** [Chinmay Samak](https://www.linkedin.com/in/samakchinmay) and [Tanmay Samak](https://in.linkedin.com/in/samaktanmay) are twin brothers, who use "Tinker Twins" as a personal brand (the team's name was therefore decided to reflect the same brand). The twins have come a long way tinkering with various tools and technologies, which has strengthened their scientific knowledge and skills. The duo has worked on various projects ranging from microelectromechanical systems (MEMS) to in-orbit space settlements, and almost everything in between. They have a particularly keen interest in the field of robotics and autonomous systems, and are specializing in the field of autonomous vehicles.
+**Tinker Twins:** [Chinmay Samak](https://www.linkedin.com/in/samakchinmay) and [Tanmay Samak](https://in.linkedin.com/in/samaktanmay) are twin brothers, who use "Tinker Twins" as a personal brand (the team's name was therefore decided to reflect the same brand). The twins have come a long way tinkering with various tools and technologies, which has strengthened their scientific knowledge as well as technical and non-technical skills. The duo has worked on various projects ranging from microelectromechanical systems (MEMS) to in-orbit space settlements, and almost everything in between. Most of these started out as hobby projects but the twins have decided to delve deeper and turn them into research projects. They have a particularly keen interest in the field of robotics and autonomous systems, and are specializing in the field of autonomous vehicles.
 <img/>
 
 <br />
