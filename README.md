@@ -14,23 +14,28 @@
 
 :wink: **Fun fact:** We are identical twins
 
-<h3 align="left">The Brand:</h3>
+<h1 align="left">The Brand:</h1>
 
-<img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px" height="150px" src="Tinker_Twins_Profile.png">
+<img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px" height="175px" src="Tinker_Twins_Profile.png">
 
 **Tinker Twins:** [Chinmay Samak](https://www.linkedin.com/in/samakchinmay) and [Tanmay Samak](https://in.linkedin.com/in/samaktanmay) are twin brothers, who use "Tinker Twins" as a personal brand (the team's name was therefore decided to reflect the same brand). The twins have come a long way tinkering with various tools and technologies, which has strengthened their scientific knowledge and skills. The duo has worked on various projects ranging from microelectromechanical systems (MEMS) to in-orbit space settlements, and almost everything in between. They have a particularly keen interest in the field of robotics and autonomous systems, and are specializing in the field of autonomous vehicles.
+<img/>
 
-<h3 align="left">The Twins:</h3>
+<br />
+<h1 align="left">The Twins:</h1>
 
 <img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px" height="175px" src="Chinmay_Samak_Profile.png">
 
 **Chinmay Samak:** I received the [B.Tech. degree in Mechatronics Engineering](https://www.srmist.edu.in/program/b-tech-mechatronics-engineering/) with a gold medal from [SRM Institute of Science and Technology](https://www.srmist.edu.in/) in 2021. Having worked on several research projects in the field of autonomous vehicles, complemented with a solid background in mechatronics engineering, I have joined [ARMLab at CU-ICAR](http://cecas.clemson.edu/armlab-cuicar) as a direct Ph.D. candidate under the supervision of [Dr. Venkat Krovi](https://www.linkedin.com/in/venkatnkrovi) to pursue focused research in the field of vehicle automation. My research interests lie at the intersection of real and virtual worlds to create physically and graphically accurate digital twins. I am currently contributing towards projects such as [VIPR-GS](https://cecas.clemson.edu/VIPR-GS/), [OpenCAV](https://sites.google.com/view/opencav/), [AutoDRIVE](https://autodrive-ecosystem.github.io/) and [F1Tenth](https://f1tenth.org/).
+<img/>
 
 <img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px" height="175px" src="Tanmay_Samak_Profile.png">
 
 **Tanmay Samak:** I received the [B.Tech. degree in Mechatronics Engineering](https://www.srmist.edu.in/program/b-tech-mechatronics-engineering/) with a silver medal from [SRM Institute of Science and Technology](https://www.srmist.edu.in/) in 2021. Having worked on several research projects in the field of autonomous vehicles, complemented with a solid background in mechatronics engineering, I have joined [ARMLab at CU-ICAR](http://cecas.clemson.edu/armlab-cuicar) as a direct Ph.D. candidate under the supervision of [Dr. Venkat Krovi](https://www.linkedin.com/in/venkatnkrovi) to pursue focused research in the field of vehicle automation. My research interests lie at the intersection of formal and learning based approaches to develop socially and situationally aware autonomous systems. I am currently contributing towards projects such as [VIPR-GS](https://cecas.clemson.edu/VIPR-GS/), [OpenCAV](https://sites.google.com/view/opencav/), [AutoDRIVE](https://autodrive-ecosystem.github.io/) and [F1Tenth](https://f1tenth.org/).
+<img/>
 
-<h3 align="left">Let's Connect:</h3>
+<br />
+<h1 align="left">Let's Connect:</h1>
 
 <p align="left">
   <a href="https://github.com/Tinker-Twins/"><img src="https://img.shields.io/badge/GitHub-Tinker%20Twins-lightgrey?style=social&logo=github" /></a>
@@ -46,7 +51,8 @@
   <a href="https://www.researchgate.net/profile/Chinmay-Samak"><img src="https://img.shields.io/badge/ResearchGate-Chinmay%20Samak-green?style=social&logo=researchgate" /></a>
 </p>
 
-<h3 align="left">Software Development Skills:</h3>
+<br />
+<h1 align="left">Software Development Skills:</h1>
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/>
@@ -66,7 +72,8 @@
   <img src="https://www.logolynx.com/images/logolynx/73/73dcca5b2435a4fc91983ab4170cd695.png" alt="sql" height="40"/>
 </p>
 
-<h3 align="left">Hardware Prototyping Skills:</h3>
+<br />
+<h1 align="left">Hardware Prototyping Skills:</h1>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" height="35"/>
@@ -89,7 +96,8 @@
   <img src="https://pbs.twimg.com/profile_images/1379502878419779592/odCJ2GCH_400x400.jpg" alt="ti" height="40"/>
 </p>
 
-<h3 align="left">Profile Stats:</h3>
+<br />
+<h1 align="left">Profile Stats:</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinker-twins&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" height="250" /></p>
 
