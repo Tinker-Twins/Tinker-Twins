@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinker-twins&no-frame=true&column=7" alt="profile-trophy" /></a> </p>
 
-:slightly_smiling_face: **Ask us about:** Robotics and autonomous systems
-
-:thinking: **Our real names:** Tanmay Samak & Chinmay Samak
+:thinking: **Our real names:** Tanmay Vilas Samak & Chinmay Vilas Samak
 
 :wink: **Fun fact:** We are identical twins
+
+:slightly_smiling_face: **Ask us about:** Robotics and autonomous systems
 
 <h1 align="left">The Brand:</h1>
 
