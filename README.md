@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/tinker-twins?label=Followers&color=blueviolet&style=plastic" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinker-twins&no-frame=true&column=7" alt="profile-trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinker-twins&no-frame=true&column=8" alt="profile-trophy" /></a> </p>
 
 :thinking: **Our real names:** Tanmay Vilas Samak & Chinmay Vilas Samak
 
