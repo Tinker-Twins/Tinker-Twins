@@ -96,7 +96,7 @@
   <img src="https://www.abelectronics.co.uk/docs/kb/odroid/odroid.svg" alt="odroid" height="40"/>
   <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="raspberrypi" height="40"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="arduino" height="40"/>
-  <img src="https://techzeero.com/wp-content/uploads/2019/07/nodemcu-logo.png" alt="nodemcu" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/9865736?s=280&v=4" alt="nodemcu" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg" alt="arm" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Avr_logo.svg" alt="avr" height="40"/>
   <img src="https://pbs.twimg.com/profile_images/1379502878419779592/odCJ2GCH_400x400.jpg" alt="ti" height="40"/>
