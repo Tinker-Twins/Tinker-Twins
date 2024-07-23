@@ -79,7 +79,7 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MIT_App_Inventor_logo.png" alt="mitai" height="40"/>
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="htmlcssjs" height="40"/>
-  <img src="https://www.logolynx.com/images/logolynx/73/73dcca5b2435a4fc91983ab4170cd695.png" alt="sql" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height="40"/>
 </p>
 
 <h1 align="left">Hardware Prototyping Skills:</h1>
