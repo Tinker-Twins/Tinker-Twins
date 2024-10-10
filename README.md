@@ -71,7 +71,7 @@
   
   <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" height="40"/>
   <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" height="40"/>
-  <img src="https://global.discourse-cdn.com/business7/uploads/ros/original/2X/b/bff2b231aecfb3b0bae5f55c34fab52941d008e2.png" alt="autoware" height="40"/>
+  <img src="https://media.licdn.com/dms/image/v2/C560BAQEt4zr_Qm_Okg/company-logo_200_200/company-logo_200_200/0/1630651046303?e=2147483647&v=beta&t=T5hDor8VsnznHigufnWlJOfk1xLNr0_e0melmwZ7EJM" alt="autoware" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" height="40"/>
