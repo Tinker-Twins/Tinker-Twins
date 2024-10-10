@@ -71,7 +71,7 @@
   
   <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" height="40"/>
   <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" height="40"/>
-  <img src="https://gitlab.com/uploads/-/system/group/avatar/6018591/Autoware.Auto-Logo-Project-Extention-Typo-grey.png" alt="autoware" height="40"/>
+  <img src="https://autoware.org/wp-content/uploads/2023/03/1.png" alt="autoware" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" height="40"/>
