@@ -66,12 +66,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="labview" height="40"/>
-  
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" height="40"/>
-  
   <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" height="40"/>
   <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" height="40"/>
-  <img src="https://autoware.org/wp-content/uploads/2023/03/1.png" alt="autoware" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/66096671?s=200&v=4" alt="autoware" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/66096638?s=280&v=4" alt="autoware" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/66096702?s=200&v=4" alt="autoware" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" height="40"/>
