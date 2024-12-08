@@ -80,6 +80,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MIT_App_Inventor_logo.png" alt="mitai" height="40"/>
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="htmlcssjs" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height="40"/>
+  <img src="https://en.m.wikipedia.org/wiki/File:Typescript_logo_2020.svg" alt="typescript" height="40"/>
+  <img src="https://cdn.prod.website-files.com/66a36245725199d12625c1d5/66cc0d09e084af218500b20e_logo-icon-round.svg" alt="foxglove" height="40"/>
 </p>
 
 <h1 align="left">Hardware Prototyping Skills:</h1>
