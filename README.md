@@ -106,6 +106,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg" alt="arm" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Avr_logo.svg" alt="avr" height="40"/>
   <img src="https://pbs.twimg.com/profile_images/1379502878419779592/odCJ2GCH_400x400.jpg" alt="ti" height="40"/>
+  <img src="https://neweagle.net/wp-content/uploads/NE-Logo-Website.svg" alt="ti" height="40"/>
 </p>
 
 <h1 align="left">Profile Stats:</h1>
