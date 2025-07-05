@@ -58,61 +58,64 @@
 <h1 align="left">Software Development Skills:</h1>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="40"/>
-  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="embeddedc" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="labview" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" height="40"/>
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" height="40"/>
-  <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/66096638?s=280&v=4" alt="autoware" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/66096671?s=200&v=4" alt="autoware" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/66096702?s=200&v=4" alt="autoware" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" height="40"/>
-  <img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" alt="hlsl" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MIT_App_Inventor_logo.png" alt="mitai" height="40"/>
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="htmlcssjs" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40"/>
-  <img src="https://cdn.prod.website-files.com/66a36245725199d12625c1d5/66cc0d09e084af218500b20e_logo-icon-round.svg" alt="foxglove" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/>
+  <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="embeddedc" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png" alt="simulink" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="labview" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" width="30"/>
+  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" alt="ros" width="120"/>
+  <img src="https://www.neobotix-roboter.de/fileadmin/_processed_/a/b/csm_ROS2_de25589e21.png" alt="ros2" width="60"/>
+  <img src="https://avatars.githubusercontent.com/u/66096638?s=280&v=4" alt="autoware" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/66096671?s=200&v=4" alt="autoware" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/66096702?s=200&v=4" alt="autoware" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"/>
+  <img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2022/10/MicrosoftTeams-image.jpg" alt="hlsl" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MIT_App_Inventor_logo.png" alt="mitai" width="40"/>
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="htmlcssjs" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40"/>
+  <img src="https://cdn.prod.website-files.com/66a36245725199d12625c1d5/66cc0d09e084af218500b20e_logo-icon-round.svg" alt="foxglove" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="70"/>
+  <img src="https://apptainer.org/docs/user/latest/_static/logo.png" alt="apptainer" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes" width="40"/>
 </p>
 
 <h1 align="left">Hardware Prototyping Skills:</h1>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SketchUp_logo.svg" alt="sketchup" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Autodesk_Logo.svg" alt="autodesk" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ansys" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Comsol_logo.svg" alt="comsol" height="20"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/SketchUp_logo.svg" alt="sketchup" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Autodesk_Logo.svg" alt="autodesk" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ansys" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Comsol_logo.svg" alt="comsol" width="140"/>
 </p>
 <p align="left">
-  <img src="https://static.wixstatic.com/media/3b5532_5eea03b3ef6746c6bba8376a162055e9~mv2.png/v1/fit/w_344%2Ch_226%2Cal_c/file.png" alt="ni" height="40"/>
-  <img src="https://www.labcenter.com/images/logo.png" alt="proteus" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Fritzing_Software_Logo_Batch.png" alt="fritzing" height="40"/>
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Nvidia-Emblem.png" alt="nvidia" height="40"/>
-  <img src="https://www.abelectronics.co.uk/docs/kb/odroid/odroid.svg" alt="odroid" height="40"/>
-  <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="raspberrypi" height="40"/>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="arduino" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/9865736?s=280&v=4" alt="nodemcu" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg" alt="arm" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Avr_logo.svg" alt="avr" height="40"/>
-  <img src="https://pbs.twimg.com/profile_images/1379502878419779592/odCJ2GCH_400x400.jpg" alt="ti" height="40"/>
-  <img src="https://kvaser.com/wp-content/uploads/2024/05/new-eagle-logo-v-16b1eca0302-ORIGINAL.png" alt="neweagle" height="40"/>
+  <img src="https://static.wixstatic.com/media/3b5532_5eea03b3ef6746c6bba8376a162055e9~mv2.png/v1/fit/w_344%2Ch_226%2Cal_c/file.png" alt="ni" width="40"/>
+  <img src="https://www.labcenter.com/images/logo.png" alt="proteus" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Fritzing_Software_Logo_Batch.png" alt="fritzing" width="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/Nvidia-Emblem.png" alt="nvidia" width="60"/>
+  <img src="https://www.abelectronics.co.uk/docs/kb/odroid/odroid.svg" alt="odroid" width="90"/>
+  <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" alt="raspberrypi" width="30"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="arduino" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/9865736?s=280&v=4" alt="nodemcu" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg" alt="arm" width="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Avr_logo.svg" alt="avr" width="80"/>
+  <img src="https://pbs.twimg.com/profile_images/1379502878419779592/odCJ2GCH_400x400.jpg" alt="ti" width="40"/>
+  <img src="https://kvaser.com/wp-content/uploads/2024/05/new-eagle-logo-v-16b1eca0302-ORIGINAL.png" alt="neweagle" width="90"/>
 </p>
 
 <h1 align="left">Profile Stats:</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinker-twins&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" height="250" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinker-twins&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" width="250" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tinker-twins&show_icons=true&locale=en" alt="profile-stats" height="125" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tinker-twins&show_icons=true&locale=en" alt="profile-stats" width="250" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tinker-twins" alt="streak-stats" height="125" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tinker-twins" alt="streak-stats" width="250" /></p>
