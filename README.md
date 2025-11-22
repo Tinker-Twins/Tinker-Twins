@@ -116,8 +116,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinker-twins&langs_count=10&show_icons=true&locale=en&layout=compact" alt="top-languages" width="400" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tinker-twins&show_icons=true&locale=en" alt="profile-stats" width="350" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tinker-twins&show_icons=true&locale=en" alt="profile-stats" width="350" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tinker-twins" alt="streak-stats" width="350" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tinker-twins" alt="streak-stats" width="350" /></p>
 
-<img src="https://algora.io/og/user/Tinker-Twins" />
+<p><img align="left" src="https://algora.io/og/user/Tinker-Twins" alt="algora-stats" width="770" /></p>
