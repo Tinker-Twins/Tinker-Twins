@@ -109,7 +109,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg" alt="arm" width="90"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Avr_logo.svg" alt="avr" width="80"/>
   <img src="https://pbs.twimg.com/profile_images/1379502878419779592/odCJ2GCH_400x400.jpg" alt="ti" width="40"/>
-  <img src="hhttps://kvaser.com/wp-content/uploads/2024/05/new-eagle-logo-v-16b1eca0302-ORIGINAL-119.webp" alt="neweagle" width="90"/>
+  <img src="https://annarborusa.org/wp-content/uploads/2022/06/NewEagleLogo-Official-1024x136.png" alt="neweagle" width="250"/>
 </p>
 
 <h1 align="left">Profile Stats:</h1>
